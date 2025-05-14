@@ -2,6 +2,7 @@
 
 ### 1. [SomaIndices](./SomaIndices/Program.cs)
   - Somar indices até 13.
+  - Soma: 91
 
 ### 2. [SequenciaFibonacci](./SequenciaFibonacci/Program.cs)
   - Verificar se o número digitado faz parte da Sequencia de Fibonacci.
